@@ -21,4 +21,4 @@ A fun and interactive **Bubble Clicking Game** where you pop bubbles by clicking
 - JavaScript
 
 ## 📌 Live Demo:
-[Play the Game Here]() 🎮
+[Play the Game Here](https://akanksha9191.github.io/Bubble-Game/) 🎮
