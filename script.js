@@ -2,8 +2,8 @@ const bubblecontainer = document.querySelector('.bubble-container');
 const timerDisplay = document.getElementById('timer')
 const targetDisplay = document.getElementById('target')
 const scoreDisplay = document.getElementById('score')
-const originaltime = 10;
-let leftTime = 10;
+const originaltime = 15;
+let leftTime = 15;
 let score = 0;
 
 // create bubbles
